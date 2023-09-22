@@ -75,6 +75,7 @@ Nmap done: 1 IP address (1 host up) scanned in 152.13 seconds
 
 ### SSRF in Request Baskets v1.2.1
 - SSRF is a web-based vulnerability where the requests are made by the server, this is a kind of vulnerability where the requests made by user are sent as the requests by the server by using this we access the port 80 of the box
+![img](screenshots/Screenshot from 2023-09-22 23-51-32.png)
 ### MagicBricks v0.53 (RCE)
 ```
 import sys
