@@ -126,4 +126,3 @@ sudo /usr/bin/systemctl status trail.service
 - Systemctl command is runned as a root user and then we type `!sh` to get the root shell.
 
 
-# Happy Hacking:)
