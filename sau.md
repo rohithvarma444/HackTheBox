@@ -75,7 +75,8 @@ Nmap done: 1 IP address (1 host up) scanned in 152.13 seconds
 
 ### SSRF in Request Baskets v1.2.1
 - SSRF is a web-based vulnerability where the requests are made by the server, this is a kind of vulnerability where the requests made by user are sent as the requests by the server by using this we access the port 80 of the box
-![img](screenshots/Screenshot from 2023-09-22 23-51-32.png)
+
+  ![img](https://github.com/rohithvarma444/HackTheBox/blob/main/screenshots/Screenshot%20from%202023-09-22%2023-51-32.png)
 ### MagicBricks v0.53 (RCE)
 ```
 import sys
@@ -123,6 +124,9 @@ User puma may run the following commands on sau:
 $ sudo /usr/bin/systemctl status trail.service
 sudo /usr/bin/systemctl status trail.service
 ```
+
+![img](https://github.com/rohithvarma444/HackTheBox/blob/main/screenshots/Screenshot%20from%202023-09-22%2023-52-35.png)
+
 - Systemctl command is runned as a root user and then we type `!sh` to get the root shell.
 
 
